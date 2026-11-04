@@ -1,0 +1,14 @@
+body {
+    background-image: url(christmas-vertical-sales-blank-banner-background_23-2151286162.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+
+}
+
+* {
+    color:darkred;
+    text-align: center;
+    justify-content: center;
+}
